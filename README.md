@@ -1,5 +1,7 @@
 # Dev-
 my developer jouner
-- first step 
+<br>
+- first step
+
 vs 
  git and github
